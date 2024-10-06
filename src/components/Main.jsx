@@ -10,7 +10,7 @@ import { PiTeaBagBold } from "react-icons/pi";
 function Main() {
     return (
         <div className='flex py-3 px-4 w-full bg-blue-100 bg-slate-900 h-auto gap-20 flex-wrap md:flex-nowrap'>
-            <div className='w-[900px]' >
+            <div className='w-[750px]' >
                 <nav className='flex justify-between '>
                     <p className='text-slate-600 flex items-center gap-1'> <span className='text-cyan-400 text-lg'><FaRegCalendarAlt /></span>  <span className='text-slate-200'>Your school</span></p>
                     <ul className='flex gap-4'>
@@ -37,7 +37,7 @@ function Main() {
     </ul>
 </div>
             </div>
-            <div className='flex flex-col gap-8'>
+            <div className='flex flex-col  gap-8'>
                  <div>
                     <ul className=' flex gap-10'>
                         <li className='flex flex-col items-center'>

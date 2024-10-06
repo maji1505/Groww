@@ -18,7 +18,7 @@ function Navbar() {
             
         </div>
         <div className="flex items-center ">
-          <span className="text-white p-1 text-xl bg-cyan-400 rounded-full"><MdQuestionMark /></span>  <span className="text-white pl-2">Help</span>
+          <span className="text-white p-1 text-xl bg-cyan-400 rounded-full"><MdQuestionMark /></span>  <span className="text-white pr-2 pl-1">Help</span>
         </div>
     </div>
   )
